@@ -1,1 +1,3 @@
-# odin-recipes
+#GitTest
+My First Repo
+Hello Odin!?
